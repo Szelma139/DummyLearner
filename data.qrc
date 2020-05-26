@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>lang.json</file>
+        <file>german.json</file>
+        <file>english.json</file>
+    </qresource>
+</RCC>
